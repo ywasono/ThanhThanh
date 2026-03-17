@@ -145,10 +145,10 @@ const Hero = () => {
             South Australia's Local Institution
           </span>
           <h1 className="font-serif text-5xl md:text-7xl text-white font-bold mb-6 leading-tight">
-            Authentic Vietnamese Flavors in South Australia
+            Best Authentic Vietnamese in Adelaide
           </h1>
           <p className="text-xl md:text-2xl text-gray-200 mb-10 font-light max-w-2xl mx-auto">
-            Proudly serving our community with tradition and passion for more than <span className="text-brand-wood font-semibold italic">20 years</span>.
+            Experience the finest Vietnamese food in Adelaide CBD. Serving tradition and passion for more than <span className="text-brand-wood font-semibold italic">20 years</span>.
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <a
@@ -221,14 +221,14 @@ const About = () => {
           >
             <span className="text-brand-green font-bold tracking-widest uppercase text-sm mb-4 block">Our Heritage</span>
             <h2 className="font-serif text-4xl md:text-5xl font-bold text-gray-900 mb-8 leading-tight">
-              A Family Legacy of Taste and Tradition
+              The Best Vietnamese Restaurant in Adelaide CBD
             </h2>
             <div className="space-y-6 text-lg text-gray-600 leading-relaxed">
               <p>
-                For over two decades, Thanh Thanh has been more than just a restaurant; it's a cornerstone of the South Australian community. Our journey began with a simple mission: to share the authentic flavors of our homeland with our neighbors.
+                For over two decades, Thanh Thanh has been recognized as the best Vietnamese restaurant in Adelaide. Our journey began with a simple mission: to share the authentic flavors of our homeland with the South Australian community.
               </p>
               <p>
-                As a family-run business, we take pride in every dish that leaves our kitchen. We use only the freshest local ingredients combined with traditional Vietnamese spices and time-honored recipes passed down through generations.
+                As a family-run business, we take pride in being a top choice for authentic Vietnamese food in Adelaide. We use only the freshest local ingredients combined with traditional Vietnamese spices and time-honored recipes passed down through generations.
               </p>
               <p>
                 Whether you're a long-time regular or visiting us for the first time, we welcome you with the same warmth and hospitality that has defined us for 20 years.
@@ -314,9 +314,9 @@ const MenuHighlights = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
           <span className="text-brand-red font-bold tracking-widest uppercase text-sm mb-4 block">Our Culinary Journey</span>
-          <h2 className="font-serif text-4xl md:text-5xl font-bold text-gray-900 mb-6">Explore Our Menu</h2>
+          <h2 className="font-serif text-4xl md:text-5xl font-bold text-gray-900 mb-6">Best Vietnamese Menu in Adelaide</h2>
           <p className="text-gray-600 max-w-2xl mx-auto text-lg">
-            Authentic recipes crafted with fresh ingredients and 20 years of tradition.
+            Discover our authentic Vietnamese flavors, from our signature 24-hour slow-cooked Beef Pho to traditional rice dishes, right here in Adelaide CBD.
           </p>
         </div>
 
@@ -510,10 +510,10 @@ const OrderCTA = () => {
       
       <div className="max-w-5xl mx-auto px-4 text-center relative z-10">
         <h2 className="font-serif text-4xl md:text-5xl text-white font-bold mb-8">
-          Hungry? Order Your Favorites Now
+          Best Vietnamese Takeaway in Adelaide
         </h2>
         <p className="text-red-100 text-xl mb-10 max-w-2xl mx-auto">
-          Skip the wait and enjoy authentic Vietnamese cuisine from the comfort of your home. Fast, fresh, and delicious.
+          Enjoy the best Vietnamese food in Adelaide from the comfort of your home. Fast, fresh, and authentic.
         </p>
         <a
           href={ORDER_URL}
@@ -540,7 +540,7 @@ const Contact = () => {
             viewport={{ once: true }}
           >
             <span className="text-brand-green font-bold tracking-widest uppercase text-sm mb-4 block">Get In Touch</span>
-            <h2 className="font-serif text-4xl font-bold text-gray-900 mb-10">Visit Us Today</h2>
+            <h2 className="font-serif text-4xl font-bold text-gray-900 mb-10">Best Vietnamese Dining in Adelaide CBD</h2>
             
             <div className="space-y-8">
               <div className="flex items-start gap-5">
@@ -618,7 +618,7 @@ const Footer = () => {
           <div className="col-span-1 lg:col-span-1">
             <h3 className="font-serif text-3xl font-bold mb-6">Thanh Thanh</h3>
             <p className="text-stone-400 mb-8 leading-relaxed">
-              Bringing the authentic taste of Vietnam to South Australia for over 20 years. Quality, tradition, and family at our heart.
+              Serving the best Vietnamese in Adelaide for over 20 years. Authentic flavors, local ingredients, and family tradition in the heart of the CBD.
             </p>
             <div className="flex gap-4">
               <a href="#" className="w-10 h-10 rounded-full bg-stone-800 flex items-center justify-center hover:bg-brand-red transition-colors">
